@@ -1,22 +1,37 @@
 {
 	"movies": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Excerpt": "Excerpt",
+			"Hex": "Hex triplet"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Excerpt": "TRUE BLUE",
+			"Hex": "2D68C4"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Excerpt": "'Blue gives other colors their vibration', Cézanne.",
+			"Hex": "4C8F98"
+
+		},
+		{
+			"Excerpt": "Yves Klein",
+			"Hex": "002199"
+		},
+		{
+			"Excerpt": "The sky blue butterfly",
+			"Hex": "00B5E2"
+		},
+		{
+			"Excerpt": "Blue of my dreams",
+			"Hex": "9ebdd0"
+		},
+		{
+			"Excerpt": "Slow blue love / Of delphinium days",
+			"Hex": "304C89"
+		},
+		{
+			"Excerpt": "The fathomless blue of bliss",
+			"Hex": "191970"
 		}
 	]
 }
