@@ -155,6 +155,11 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  margin-left: 20px;
+}
+
+.interstice {
+  color: #6e6eff;
 }
 
 abbr[title],
@@ -11420,8 +11425,8 @@ header.masthead .masthead-heading {
 
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 17rem;
-    padding-bottom: 12.5rem;
+    padding-top: 15rem;
+    padding-bottom: 5rem;
   }
   header.masthead .masthead-subheading {
     font-size: 2.25rem;
