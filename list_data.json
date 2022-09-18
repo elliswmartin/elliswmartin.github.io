@@ -2,32 +2,32 @@
 	"movies": [
 		{
 			"Excerpt": "TRUE BLUE",
-			"Hex": "2D68C4"
+			"Hex": "#2D68C4"
 		},
 		{
 			"Excerpt": "'Blue gives other colors their vibration', Cézanne.",
-			"Hex": "4C8F98"
+			"Hex": "#4C8F98"
 
 		},
 		{
 			"Excerpt": "Yves Klein",
-			"Hex": "002199"
+			"Hex": "#002199"
 		},
 		{
 			"Excerpt": "The sky blue butterfly",
-			"Hex": "00B5E2"
+			"Hex": "#00B5E2"
 		},
 		{
 			"Excerpt": "Blue of my dreams",
-			"Hex": "9ebdd0"
+			"Hex": "#9ebdd0"
 		},
 		{
 			"Excerpt": "Slow blue love / Of delphinium days",
-			"Hex": "304C89"
+			"Hex": "#304C89"
 		},
 		{
 			"Excerpt": "The fathomless blue of bliss",
-			"Hex": "191970"
+			"Hex": "#191970"
 		}
 	]
 }
